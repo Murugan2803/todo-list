@@ -22,7 +22,7 @@ const LoginPage = ({ setUser }) => {
       <br />
       <input
         type="password"
-        placeholder="Password"
+        placeholder="Passwordnew"
         value={password}
         onChange={(e) => setPassword(e.target.value)}
       />
